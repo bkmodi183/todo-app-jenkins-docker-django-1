@@ -1,0 +1,3 @@
+This is dummy file to understand the difference between git clone and grovvy git url.
+git clone will always clone the git repo whereas git url clone the repo at the first time 
+and from there onwards pull the changes not clone the whole repo.
